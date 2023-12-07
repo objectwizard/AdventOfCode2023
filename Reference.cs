@@ -1,0 +1,17 @@
+﻿namespace AdventOfCode2023
+{
+	public static class Reference
+	{
+		public static Dictionary<string, int> numberStringLookup = new Dictionary<string, int> {
+			{"one", 1},
+			{"two", 2},
+			{"three", 3},
+			{"four", 4},
+			{"five", 5},
+			{"six", 6},
+			{"seven", 7},
+			{"eight", 8},
+			{"nine", 9}
+		};
+	}
+}
